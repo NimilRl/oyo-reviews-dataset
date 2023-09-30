@@ -19,8 +19,8 @@ The dataset consists of three files:
 Credit and LinkedIn Profiles:
 The OYO Review Dataset was created by Deep Patel, Nikki Patel, and Nimil. They can be credited for their efforts in creating and curating the dataset. Here are their LinkedIn profiles for reference:
 
-- Deep Patel: [LinkedIn Profile](https://www.linkedin.com/in/deep-patel-55ab48199/)
-- Nikki Patel: [LinkedIn Profile](https://www.linkedin.com/in/nikipatel9/)
-- me 😁: [LinkedIn Profile](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
+- Deep Patel : [LinkedIn Profile](https://www.linkedin.com/in/deep-patel-55ab48199/)
+- Nikki Patel : [LinkedIn Profile](https://www.linkedin.com/in/nikipatel9/)
+- me 😁👉🏻 : [LinkedIn Profile](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
 
 It is important to acknowledge and credit the creators of the dataset when using it for research or any other purposes.

@@ -1,26 +1,18 @@
-Details of OYO Review Dataset:
+Introducing the OYO Review Dataset: 🌟 Unveiling Insights from Hotel Reviews! 🌟
 
-The OYO Review Dataset is a dataset created by Deep Patel, Nikki Patel, and Nimil lathiya for the purpose of studying and analyzing hotel reviews from the OYO Hotels platform. The dataset was generated using web scraping tools to extract relevant information from the website.
+Dive into the captivating world of hospitality with the OYO Review Dataset, meticulously crafted by the dynamic trio of Deep Patel, Nikki Patel, and the enigmatic Nimil Lathiya. This dataset is your passport to a treasure trove of information, gleaned from the vast landscape of OYO Hotels' online reviews.
 
-The dataset consists of three files:
+🌍 **Explore the World of OYO**: We've curated a collection of city-wise URLs that unlock the doors to OYO Hotels across various destinations. Get ready to embark on a virtual journey as you navigate through our 'city_wise_url.csv' file, offering a unique gateway to hospitality hubs worldwide.
 
-1. city_wise_url.csv:
-   - File Description: This file contains the city-wise URLs of hotels on the OYO Hotels platform.
-   - Columns: The columns in this file include id, country_id, place_id, name, and city_url.
+🏨 **Hotel Insights Unveiled**: Our 'Hotel_information.csv' file offers insights into hotel details 🏩, whether it's discovering new gems or revealing the tried-and-true favorites. Find out about price 💰, discounts 💲, and more.
 
-2. Hotel_information.csv:
-   - File Description: This file contains information about hotels scraped from the OYO Hotels platform.
-   - Columns: The columns in this file include URL, Hotel Name, Is New (indicating if the hotel is newly listed), Total Rating, Price, Original Price, Discount, and Hotel ID.
-
-3. reviews.csv:
-   - File Description: This file contains hotel reviews provided by users on the OYO Hotels platform.
-   - Columns: The columns in this file include hotel_id (corresponding to the hotel ID from Hotel_information.csv), user_name, review_text, date, and title.
+📝 **Authentic Guest Reviews**: Delve into 'reviews.csv' for a firsthand look at what guests have to say about their OYO experiences. From user names 👤 to detailed reviews 📖, we've got it all.
 
 Credit and LinkedIn Profiles:
 The OYO Review Dataset was created by Deep Patel, Nikki Patel, and Nimil. They can be credited for their efforts in creating and curating the dataset. Here are their LinkedIn profiles for reference:
 
-- Deep Patel : [LinkedIn Profile](https://www.linkedin.com/in/deep-patel-55ab48199/)
-- Nikki Patel : [LinkedIn Profile](https://www.linkedin.com/in/nikipatel9/)
-- me 😁👉🏻 : [LinkedIn Profile](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
+- Deep Patel 👉 [LinkedIn Profile](https://www.linkedin.com/in/deep-patel-55ab48199/)
+- Nikki Patel 👉 [LinkedIn Profile](https://www.linkedin.com/in/nikipatel9/)
+- Nimil Lathiya 😁👉🏻 [LinkedIn Profile](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
 
-It is important to acknowledge and credit the creators of the dataset when using it for research or any other purposes.
+It is important to acknowledge and credit the creators of the dataset when using it for research or any other purposes. 🙌🎉

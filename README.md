@@ -16,3 +16,5 @@ The OYO Review Dataset was created by Deep Patel, Nikki Patel, and Nimil. They c
 - me 😁👉🏻 [LinkedIn Profile](https://www.linkedin.com/in/nimil-lathiya-059a281b1/)
 
 It is important to acknowledge and credit the creators of the dataset when using it for research or any other purposes. 🙌🎉
+
+https://www.kaggle.com/datasets/deeppatel9095/oyo-reviews-dataset?select=oyo_reviews_city_wise_csv
